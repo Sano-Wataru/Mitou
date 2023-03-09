@@ -17,7 +17,7 @@ int main()
   printf("connected to the server...\n");
   printf("\x1b[0m");
 
-  setServerAddress(inet_ntoa(getAddress(ADDR)));
+  setServerAddress(inet_ntoa(getAddress(addr)));
   setServerPort(port);
 
   createSocket(getServerAddress(), getServerPort(), &sockfd, &serv);
