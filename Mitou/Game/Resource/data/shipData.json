@@ -1,0 +1,19 @@
+{
+  "ship1_std": {
+    "key": "Ship1",
+    "hp": 100.0,
+    "shield": 0.0,
+    "speed": 1.0,
+    "crange": 250.0,
+    "gun": "red_1way"
+  },
+
+  "ship2_std": {
+    "key": "Ship2",
+    "hp": 100.0,
+    "shield": 0.0,
+    "speed": 1.0,
+    "crange": 250.0,
+    "gun": ""
+  }
+}

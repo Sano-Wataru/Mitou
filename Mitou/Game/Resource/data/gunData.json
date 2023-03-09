@@ -1,0 +1,21 @@
+{
+  "red_1way": {
+    "ox": [ 0.0 ],
+    "oy": [ 10.0 ],
+    "damage": [ 8.0 ],
+    "interval": [ 1.0 ],
+    "speed": [ 3.0 ],
+    "duration": [ 7.0 ],
+    "key": [ "Shot1" ]
+  },
+
+  "blue_2way": {
+    "ox": [ 10.0, -10.0 ],
+    "oy": [ 10.0, 10.0 ],
+    "damage": [ 2.5, 2.5 ],
+    "interval": [ 0.5, 0.5 ],
+    "speed": [ 5.0, 5.0 ],
+    "duration": [ 7.0, 7.0 ],
+    "key": [ "Shot2", "Shot2" ]
+  }
+}
